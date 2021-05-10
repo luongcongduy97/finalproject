@@ -1,0 +1,17 @@
+export const INCREASE_COUNT = 'INCREASE_COUNT';
+export const DECREASE_COUNT = 'DECREASE_COUNT';
+export const CHOOSE_SIZE = 'CHOOSE_SIZE';
+export const GET_PRODUCTLIST = 'GET_PRODUCTLIST';
+export const GET_CATEGORIES = 'GET_CATEGORIES';
+export const GET_PRODUCTDETAIL = 'GET_PRODUCTDETAIL';
+export const SEARCH_PRODUCTLIST = 'SEARCH_PRODUCTLIST';
+export const SORT_PRODUCT = 'SORT_PRODUCT';
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const REMOVE_FROM_CART = 'REMOVE_FROM_CART';
+export const GET_SIZE = 'GET_SIZE';
+export const GET_COLOR = 'GET_COLOR';
+export const REMOVE_ALL_CART = 'REMOVE_ALL_CART';
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+export const RESET_AUTH = 'RESET_AUTH';
+export const GET_PROFILE = 'GET_PROFILE';

@@ -1,0 +1,11 @@
+.grid-item {
+    grid-area: button;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-areas:
+        'button button '
+        'button button';
+    grid-gap: 10px;
+}
